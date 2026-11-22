@@ -34,6 +34,7 @@ If you're launching a SaaS, AI tool, indie product, or dev tool, **directory sub
 *Platforms built around launches — communities of early adopters who check daily/weekly for new products.*
 
 - **[Product Hunt](https://www.producthunt.com)** · DR 91 · dofollow · free — Schedule launch day.
+- **[Launch Llama](https://tools.launchllama.co)** · DR 74 · conditional dofollow · free + paid tier — Free AI tool and startup directory. Listings stay up for good and can be featured in a 69,000+ subscriber newsletter.
 - **[BetaList](https://betalist.com)** · DR 67 · dofollow · free + paid tier — Pre-launch or recently-launched only.
 - **[Peerlist Launchpad](https://peerlist.io)** · DR 64 · nofollow · free — Weekly launchpad (Wed-Sun).
 - **[TinyLaunch](https://www.tinylaunch.com)** · DR 55 · conditional dofollow · free + paid tier — Competitor.
